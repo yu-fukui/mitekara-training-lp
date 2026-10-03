@@ -12,15 +12,15 @@
 
 ## 公開先
 
-- リポジトリ: https://github.com/yasu29fr/mitekara-training-lp
-- GitHub Pages: https://yasu29fr.github.io/mitekara-training-lp/
+- リポジトリ: https://github.com/yu-fukui/mitekara-training-lp
+- GitHub Pages: https://yu-fukui.github.io/mitekara-training-lp/
 
 ## 決まっていないこと（LPに反映が必要）
 
 - **月額の金額**。「基本料＋受講者数」という決め方までは確定。`index.html` の
   `<!-- TODO -->` の下、`price-hero` に金額を入れる
 - 初期費用（持ち込み／一部制作／まるごと制作）の目安。いまは全部「要相談」
-- 公開先のURL。`canonical` と OGP は `yasu29fr.github.io/mitekara-training-lp/` を
+- 公開先のURL。`canonical` と OGP は `yu-fukui.github.io/mitekara-training-lp/` を
   仮で入れてある
 
 ## 説明会LPから変えたところ
