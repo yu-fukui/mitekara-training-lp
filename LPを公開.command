@@ -3,8 +3,8 @@
 cd "$(dirname "$0")" || exit 1
 BOLD=$'\033[1m'; GREEN=$'\033[32m'; RED=$'\033[31m'; DIM=$'\033[2m'; RESET=$'\033[0m'
 
-REPO="https://github.com/yasu29fr/mitekara-training-lp.git"
-PAGES="https://yasu29fr.github.io/mitekara-training-lp/"
+REPO="https://github.com/yu-fukui/mitekara-training-lp.git"
+PAGES="https://yu-fukui.github.io/mitekara-training-lp/"
 
 echo "${BOLD}研修LP を公開します${RESET}"
 echo
